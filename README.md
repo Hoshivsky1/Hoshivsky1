@@ -1,16 +1,9 @@
 ### Hi there 👋, I'm Maxim
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
-
 ## I'm a FrontEnd Developer
-- 💪 I like to write code
-- 🍀 I'm currently learning JavaScript
-### Connect with me:
-
-[<img align="left" alt="Hoshivsky1 | YouTube" width="22px" src="telegram.svg" />][Telegram]
-
-
-
+- 💻 I like to write code
+- 🎯 I'm currently learning JavaScript
+- 🎧 I love music very much
 <br />
 
 ### Languages and Tools:
@@ -26,8 +19,6 @@
 
 <br />
 <br />
-
-
 
 <details>
   <summary>:zap: Statistics:</summary>
