@@ -2,17 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=VladKalachev)
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a FrontEnd Developer
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-- 🤹🏽 I like to shoot videos for youtube 
-
+- 🍀 I'm currently learning JavaScript
 ### Connect with me:
 
 [<img align="left" alt="Hoshivsky1 | YouTube" width="22px" src="telegram.svg" />][Telegram]
-[<img align="left" alt="Hoshivsky1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hoshivsky1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 
 <br />
@@ -40,7 +36,4 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hoshivsky1&show_icons=true%22" />
 </details>
 
-[telegram]: https://t.me/xxvovxx/
-[linkedin]: https://www.linkedin.com/in/maxim-hoshivskyi-849234240/
-[instagram]: https://www.instagram.com/max_hoshivskyi/
 
