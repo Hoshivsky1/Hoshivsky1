@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Hoshivsky1)
 
 ## I'm a FrontEnd Developer
-- 💻 I like to write code
+- 💻 I like to write code!
 - 🎯 I'm currently learning JavaScript
 - 🎧 I love music very much
 <br />
