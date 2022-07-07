@@ -22,16 +22,18 @@
 <br />
 
 ### Information:
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshivsky1&langs_count=8&layout=compact%22&bg_color=#313131" />
-<br />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hoshivsky1&show_icons=true%22" />
+<div>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshivsky1&langs_count=8&layout=compact%22&bg_color=#313131" />
+  <br />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hoshivsky1&show_icons=true%22" />
+</div>
 
 <br/>
 <br/>
 
 <div>
-<a href="https://www.linkedin.com/in/maxim-hoshivskyi-849234240#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077B5#gh-dark-mode-only" alt="Connect with me on linkedin" >
-</a>
+  <a href="https://www.linkedin.com/in/maxim-hoshivskyi-849234240#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077B5#gh-dark-mode-only" alt="Connect with me on linkedin" >
+  </a>
 </div>
 
