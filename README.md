@@ -19,7 +19,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
-<br />
 
 ### Information:
 <div>
@@ -29,8 +28,8 @@
 </div>
 
 <br/>
-<br/>
 
+### Contact:
 <div>
   <a href="https://www.linkedin.com/in/maxim-hoshivskyi-849234240#gh-dark-mode-only">
   <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077B5#gh-dark-mode-only" alt="Connect with me on linkedin" >
