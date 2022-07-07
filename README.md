@@ -29,8 +29,8 @@
 
 <br/>
 
-### Contact:
 <div>
+  <br/>
   <a href="https://www.linkedin.com/in/maxim-hoshivskyi-849234240#gh-dark-mode-only">
   <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077B5#gh-dark-mode-only" alt="Connect with me on linkedin" >
   </a>
