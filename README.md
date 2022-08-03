@@ -6,7 +6,7 @@
 - 💻 I like to write code!
 - 🎯 I'm currently learning JavaScript, React
 - 🎧 I love music very much
-<br />
+<br /> 
  
 ### Languages and Tools:
 
