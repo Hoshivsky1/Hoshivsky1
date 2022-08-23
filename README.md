@@ -4,7 +4,7 @@
 **About me:**
 
 - 💻 I like to write code!
-- 🎯 I'm currently learning TypeScript, Redux Toolkit
+- 👻 I'm currently learning TypeScript, Redux Toolkit
 - 🎧 I love music very much
 
 **My tech stack:**
