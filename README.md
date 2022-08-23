@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Maxim
 
-![](https://komarev.com/ghpvc/?username=Hoshivsky1)
+//![](https://komarev.com/ghpvc/?username=Hoshivsky1)
 
 ## I'm a FrontEnd Developer
 - 💻 I like to write code!
