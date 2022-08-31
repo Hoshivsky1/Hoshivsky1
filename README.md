@@ -3,7 +3,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=Hoshivsky1)  -->
 **About me:**
 
-- 💻 I'm currently learning TypeScript, Redux Toolkit
+- 💻 I'm currently learning TypeScript, Redux Toolkit, Vue.js
 - 🎧 I love music very much
 
 **My tech stack:**
