@@ -18,10 +18,7 @@
 
 **Information:**
 
-<div>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshivsky1&langs_count=8&layout=compact%22&bg_color=#313131" />
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hoshivsky1&show_icons=true%22" />
-</div> 
+
  
  
  
